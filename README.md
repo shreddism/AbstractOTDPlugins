@@ -1,3 +1,5 @@
+Archived. See [The Saturn Collection](https://github.com/shreddism/TheSaturnCollection).
+
 # AbstractOTDPlugins [![Total Download Count](https://img.shields.io/github/downloads/fridgesrunning/AbstractOTDPlugins/total.svg)](https://github.com/fridgesrunning/AbstractOTDPlugins/releases)
 Plugins originally made by AbstractQBit for [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver), modified for niche use cases. Check for release updates on OTD every now and then, even though things are basically in a finished state. If this doesn't act as expected, check console. Adaptive Radial Follow should be listed BEFORE any other filter/interpolator (order matters) when applying settings. If it comes after an interpolator, then remember/screenshot your area, reset your settings (opentabletdriver > file > reset to defaults), then enable/apply/save Adaptive Radial Follow first.
 
